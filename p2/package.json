@@ -1,0 +1,15 @@
+{
+	"name": "egret",
+	"version": "4.0.3",
+	"modules": [
+		{
+			"name": "p2",
+			"description": "p2",
+			"files": [
+				"p2.min.js",
+				"p2.d.ts"
+			],
+			"root": "src"
+		}
+	]
+}
